@@ -4,8 +4,8 @@ A barbershop scheduling backend app created during [Rocketseat](http://rocketsea
 
 ## Technologies
 
-[x] [Express.js](https://expressjs.com);
-[x] [Typeorm](https://typeorm.io)
+- [x] [Express.js](https://expressjs.com);
+- [x] [Typeorm](https://typeorm.io)
 
 
 ## How to run this project?
