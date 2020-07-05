@@ -1,6 +1,12 @@
 # <Center> GoBarber API </Center>
 
-A barbershop scheduling backend app created during RocketSeat bootcamp with Node.JS, Typescript, and Postgresql.
+A barbershop scheduling backend app created during [Rocketseat](http://rocketseat.com.br) bootcamp with [Node.JS](http://nodejs.org), [Typescript](https://www.typescriptlang.org/), and Postgresql with [Typeorm](https://typeorm.io/).
+
+## Technologies
+
+[x] [Express.js](https://expressjs.com);
+[x] [Typeorm](https://typeorm.io)
+
 
 ## How to run this project?
 
@@ -43,4 +49,4 @@ yarn typeorm migrations:run
 This project is under the MIT license
 
 
-Make with 💜 by Kelvyn Santana.
+Make with 💜 by [Kelvyn Santana](http://linkedin.com/in/kelvynsantana).
